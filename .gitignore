@@ -1,6 +1,0 @@
-.env
-docker-compose.override.yml
-data/*
-!data/.gitkeep
-containers/custom/*
-!containers/custom/.gitkeep
